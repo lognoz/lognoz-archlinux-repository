@@ -44,11 +44,17 @@ class Repository():
         rm -f {path}/{database}.files;
         rm -f {path}/{database}.files.tar.gz;
         rm -f {path}/{database}.files.tar.gz.old;
-        repo-add --nocolor --new {path}/{database}.db.tar.gz {path}/*.pkg.tar.xz;
         """.format(
             database=config.database,
             path=app.mirror
         ))
+
+        for package in self.packages_updated:
+            strict_execute(f"""
+            repo-add --nocolor --new \
+                {app.mirror}/{config.database}.db.tar.gz \
+                {app.mirror}/{package}-*.pkg.tar.xz
+            """)
 
     def deploy(self):
         if len(self.packages_updated) == 0: return
@@ -218,6 +224,13 @@ class Package():
     def _verify_dependencies(self):
         redirect = False
 
+        self.depends = extract(self._location, "depends")
+        self.makedepends = extract(self._location, "makedepends")
+        self._dependencies = (self.depends + " " + self.makedepends).strip()
+
+        if self._dependencies == "":
+            return
+
         for dependency in self._dependencies.split(" "):
             try:
                 output("pacman -Sp " + dependency + " &>/dev/null")
@@ -279,9 +292,6 @@ class Package():
     def _set_variables(self):
         self._version = extract(self._location, "pkgver")
         self._name = extract(self._location, "pkgname")
-        self.depends = extract(self._location, "depends")
-        self.makedepends = extract(self._location, "makedepends")
-        self._dependencies = (self.depends + " " + self.makedepends).strip()
 
     def _validate_config(self):
         print(bold(text("content.repository.validate.config")))
