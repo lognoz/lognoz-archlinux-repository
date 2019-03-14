@@ -66,11 +66,12 @@ class Repository():
             --archive \
             --compress \
             --copy-links \
-            --delete-after \
+            --delete \
+            --recursive \
             --update \
             --verbose \
             --progress -e 'ssh -i {app.base}/deploy_key -p {config.ssh.port}' \
-            {app.mirror}/* \
+            {app.mirror}/ \
             {config.ssh.user}@{config.ssh.host}:{config.ssh.path}
         """)
 
@@ -193,7 +194,7 @@ class Package():
             self._commit()
             self._build()
 
-            repository.packages_updated.append(self.name)
+            repository.packages_updated += self._name.split(" ")
 
         repository.set_package_checked(self.name)
 
