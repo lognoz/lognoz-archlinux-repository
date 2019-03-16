@@ -2,7 +2,7 @@
 # Maintainer: bubuntux
 # Maintainer: Martoko <mbastholm at gmail dot com>
 
-pkgname=nordvpn-bin
+pkgname=nordvpn
 pkgver=2.2.0_2
 pkgrel=1
 pkgdesc="NordVPN CLI tool for Linux"
