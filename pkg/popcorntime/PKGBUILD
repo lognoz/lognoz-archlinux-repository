@@ -12,7 +12,7 @@
 # Contributor: xantares <xantares09 [at] hotmail [dot] com>
 # Contributor: petterk <stifler3k [at] hotmail [dot] com>
 
-pkgname=popcorntime-bin
+pkgname=popcorntime
 _pkgname=popcorntime
 pkgver=0.3.10
 pkgrel=5
