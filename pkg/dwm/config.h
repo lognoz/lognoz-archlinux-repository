@@ -20,8 +20,8 @@ static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *tags[] = { "1", "2", "3", "4", "5" };
 
 static const Rule rules[] = {
-   /* class      instance    title       tags mask     isfloating   monitor */
-   { "Firefox",  2,          NULL,       1 << 8,       0,           -1 },
+    /* class      instance    title       tags mask     isfloating   monitor */
+    { "Firefox",  2,          NULL,       1 << 8,       0,           -1 },
 };
 
 /* layout(s) */
