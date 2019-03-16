@@ -1,6 +1,6 @@
 # Maintainer: Caleb Bassi <calebjbassi@gmail.com>
 
-pkgname=gotop-bin
+pkgname=gotop
 _pkgname=${pkgname%-bin}
 pkgver=3.0.0
 pkgrel=2
