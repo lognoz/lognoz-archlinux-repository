@@ -5,8 +5,8 @@ name = "dwm"
 source = "https://aur.archlinux.org/dwm.git"
 rules = '''
 static const Rule rules[] = {
-   /* class      instance    title       tags mask     isfloating   monitor */
-   { "Firefox",  2,          NULL,       1 << 8,       0,           -1 },
+    /* class      instance    title       tags mask     isfloating   monitor */
+    { "Firefox",  2,          NULL,       1 << 8,       0,           -1 },
 };'''
 
 def edit_package_build():
@@ -61,8 +61,8 @@ def remove_rules():
                 if writing == False:
                     if line.startswith("/*"):
                         writing = True
-                else:
-                    continue
+                    else:
+                        continue
 
                 output.write(line)
 
