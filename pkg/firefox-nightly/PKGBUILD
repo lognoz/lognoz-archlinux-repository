@@ -8,7 +8,7 @@ pkgname=${_name}-${_channel}
 pkgdesc="Standalone Web Browser from Mozilla — Nightly build (${_lang})"
 url="https://www.mozilla.org/${_lang}/${_name}/${_channel}"
 _version=67.0a1
-pkgver=67.0a1.20190128
+pkgver=67.0a1.20190317
 pkgrel=1
 arch=('i686' 'x86_64')
 license=('MPL' 'GPL' 'LGPL')
@@ -37,6 +37,9 @@ sha512sums_i686=('SKIP' 'SKIP' 'SKIP')
 sha512sums_x86_64=('SKIP' 'SKIP' 'SKIP')
 validpgpkeys=('14F26682D0916CDD81E37B6D61B7B526D98F0353') # Mozilla’s GnuPG release key
 
+pkgver() {
+  echo "${_version}.$(date +%Y%m)"
+}
 
 package() {
   OPT_PATH="opt/${pkgname}"
