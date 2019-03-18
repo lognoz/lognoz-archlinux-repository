@@ -44,7 +44,7 @@ _neovim="$NEOVIM_YOUCOMPLETEME"
 #=========================================================================================================#
 #                                    Default PKGBUILD Configuration                                       #
 #=========================================================================================================#
-pkgname=vim-youcompleteme-git
+pkgname=vim-youcompleteme
 pkgver=r2492.299f8e48
 pkgver() {
 	cd "YouCompleteMe" || exit
