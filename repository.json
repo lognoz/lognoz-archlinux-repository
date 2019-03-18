@@ -1,10 +1,6 @@
 {
 	"database": "lognoz",
 	"url": "https://mirror.lognoz.org",
-	"git": {
-		"name": "Marc-Antoine Loignon",
-		"email": "developer@lognoz.org"
-	},
 	"ssh": {
 		"port": 22,
 		"user": "lognozc",
