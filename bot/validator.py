@@ -58,7 +58,7 @@ class Validator():
     @return_self
     def deploy_key(self):
         valid = True
-        target = ""
+        target = "deploy_key"
 
         if os.path.isfile(app.base + "/deploy_key.enc") is False:
             valid = False
@@ -66,7 +66,6 @@ class Validator():
 
         elif os.path.isfile(app.base + "/deploy_key") is False:
             valid = False
-            target = "deploy_key"
 
         validate(
             error=text("exception.validator.file.not.found") % target,
@@ -77,7 +76,7 @@ class Validator():
     @return_self
     def repository(self):
         valid = True
-        target = ""
+        target = "repository.json"
 
         if os.path.isfile(app.base + "/repository.json.enc") is False:
             valid = False
@@ -85,7 +84,6 @@ class Validator():
 
         elif os.path.isfile(app.base + "/repository.json") is False:
             valid = False
-            target = "repository.json"
 
         validate(
             error=text("exception.validator.file.not.found") % target,
@@ -175,12 +173,9 @@ class Validator():
 
     @return_self
     def github_token(self):
-        if app.is_travis is False:
-            return
-
         valid = False
         user = git_remote_path().split("/")[1]
-        response = output(f"curl -su {user}:${config.github.token} https://api.github.com/user")
+        response = output(f"curl -su {user}:{config.github.token} https://api.github.com/user")
         content = json.loads(response)
 
         if "login" in content:
