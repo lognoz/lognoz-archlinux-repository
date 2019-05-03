@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 
 name = "dwm"
-source = "https://aur.archlinux.org/dwm.git"
+source = "https://aur.archlinux.org/dwm-git.git"
 rules = '''
 static const Rule rules[] = {
     /* class      instance    title       tags mask     isfloating   monitor */
@@ -66,7 +66,15 @@ def remove_rules():
 
                 output.write(line)
 
+def rename_package():
+    for line in edit_file("PKGBUILD"):
+        if line.startswith("pkgname="):
+            print("pkgname=dwm")
+        else:
+            print(line)
+
 def pre_build():
+    rename_package()
     remove_rules()
     edit_package_build()
     edit_config()
