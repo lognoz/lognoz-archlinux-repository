@@ -1,7 +1,7 @@
 # Maintainer: Marc-Antoine Loignon <developer@lognoz.org>
 
 pkgname=vim-fugitive
-pkgver=2.5.131.g5d99841
+pkgver=2.5.132.g0f9db6a
 pkgrel=1
 pkgdesc="A Git wrapper so awesome, it should be illegal."
 arch=("any")
