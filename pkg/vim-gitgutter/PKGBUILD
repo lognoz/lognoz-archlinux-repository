@@ -1,7 +1,7 @@
 # Maintainer: Marc-Antoine Loignon <developer@lognoz.org>
 
 pkgname=vim-gitgutter
-pkgver=dc3c0dc
+pkgver=5989eb8
 pkgrel=1
 pkgdesc="A Vim plugin which shows a git diff in the 'gutter'"
 arch=("any")
