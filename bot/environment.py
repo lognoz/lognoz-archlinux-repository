@@ -6,7 +6,7 @@ import sys
 import textwrap
 import subprocess
 
-from utils.process import output, git_remote_path
+from utils.process import output, git_remote_path, strict_execute
 
 
 class Environment(object):
@@ -33,7 +33,22 @@ class Environment(object):
         print("  [ ✓ ] " + text("content.environment.up.to.date"))
 
     def prepare_mirror(self):
-        self._execute("chmod 777 " + app.mirror)
+        remote = output("git ls-files " + app.mirror + " | awk -F / '{print $2}'").split("\n")
+        local = os.listdir(app.mirror)
+
+        local.remove("validation_token")
+        local.remove("packages_checked")
+
+        if len(local) != len(remote):
+            return
+
+        print("\n" + text("content.environment.prepare.mirror"))
+
+        strict_execute(f"""
+        scp -i {app.base}/deploy_key -P {config.ssh.port} \
+            {config.ssh.user}@{config.ssh.host}:{config.ssh.path}/* \
+            {app.mirror}/
+        """)
 
     def prepare_git(self):
         self._execute(
