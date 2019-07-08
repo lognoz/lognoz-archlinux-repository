@@ -5,9 +5,13 @@ define bot
 		python bot $(1)
 endef
 
+
+.PHONY: all
+all: container run
+
 .PHONY: container
 container:
-	@docker build \
+	@docker build --pull \
 		--build-arg USER_ID=$(shell id -u) \
 		--build-arg TRAVIS=$(TRAVIS) \
 		--tag=build-your-own-archlinux-repository ./
