@@ -3,6 +3,7 @@ language: generic
 services:
   - docker
 before_install:
+  - openssl aes-256-cbc -K $encrypted_cc18dc32ed1d_key -iv $encrypted_cc18dc32ed1d_iv -in repository.yml.enc -out ./repository.yml -d
   - openssl aes-256-cbc -K $encrypted_80e2839b8039_key -iv $encrypted_80e2839b8039_iv -in deploy_key.enc -out ./deploy_key -d
 install:
 script:
