@@ -21,6 +21,7 @@ Package	|  Version	|  Modification
 *java-service-wrapper*<br>Enables a Java Application to be run as a Windows Service or Unix Daemon | 3.5.39 | 08 May 2019
 *minecraft-launcher*<br>Official Minecraft Launcher | 2.1.5410 | 27 Jun 2019
 *ncurses5-compat-libs*<br>System V Release 4.0 curses emulation library, ABI 5 | 6.1 | 14 Mar 2019
+*nordvpn*<br>NordVPN CLI tool for Linux | 3.2.0_2 | 11 Jul 2019
 *onionshare*<br>Lets you securely and anonymously share a file of any size with someone | 2.0 | 14 Mar 2019
 *pacman-cleanup-hook*<br>Pacman hook to cleanup pacman cache, keeps only the latest cache and the currently installed package. No configuration necessary, just install it. | 1.0 | 19 Mar 2019
 *popcorntime*<br>Stream movies and TV shows from torrents (stable builds) | 0.3.10 | 16 Mar 2019
