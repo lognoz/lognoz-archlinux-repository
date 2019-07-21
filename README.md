@@ -20,9 +20,9 @@ Package	|  Version	|  Modification
 *freenet*<br>An encrypted network without censorship | 0.7.5.1484 | 19 Apr 2019
 *gotop*<br>A terminal based graphical activity monitor inspired by gtop and vtop | 3.0.0 | 16 Mar 2019
 *java-service-wrapper*<br>Enables a Java Application to be run as a Windows Service or Unix Daemon | 3.5.40 | 21 Jul 2019
-*libc++*<br>LLVM C++ standard library. | 8.0.0 | 11 Jul 2019
-*libc++abi*<br>Low level support for the LLVM C++ standard library. | 8.0.0 | 11 Jul 2019
-*libc++experimental*<br>LLVM C++ experimental library. | 8.0.0 | 11 Jul 2019
+*libc++*<br>LLVM C++ standard library. | 8.0.0 | 21 Jul 2019
+*libc++abi*<br>Low level support for the LLVM C++ standard library. | 8.0.0 | 21 Jul 2019
+*libc++experimental*<br>LLVM C++ experimental library. | 8.0.0 | 21 Jul 2019
 *minecraft-launcher*<br>Official Minecraft Launcher | 2.1.5410 | 27 Jun 2019
 *ncurses5-compat-libs*<br>System V Release 4.0 curses emulation library, ABI 5 | 6.1 | 14 Mar 2019
 *nordvpn*<br>NordVPN CLI tool for Linux | 3.2.0_4 | 21 Jul 2019
@@ -38,6 +38,7 @@ Package	|  Version	|  Modification
 *st*<br>A simple virtual terminal emulator for X. | 0.8.2 | 11 Apr 2019
 *sublime-text-dev*<br>Sophisticated text editor for code, html and prose - dev build | 3.3207 | 28 Jun 2019
 *tor-browser*<br>Tor Browser Bundle: anonymous browsing using Firefox and Tor (international PKGBUILD) | 8.5.4 | 11 Jul 2019
+*vim-youcompleteme*<br>A code-completion engine for Vim | r2537.fa92f40d | 16 Jul 2019
 *xflux*<br>(f.lux for X) Changes monitor color temperature adaptively to ease eye strain (command-line version) | 20130901 | 14 Mar 2019
 *youtube-dl-mp3*<br>Convert YouTube videos in HQ audio with mp3 format. | 2018.01.03 | 14 Mar 2019
 *zeronet*<br>Decentralized websites using Bitcoin crypto and the BitTorrent network. | 0.6.5 | 19 Mar 2019
