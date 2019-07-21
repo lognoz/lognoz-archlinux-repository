@@ -27,11 +27,13 @@ Package	|  Version	|  Modification
 *nordvpn*<br>NordVPN CLI tool for Linux | 3.2.0_4 | 21 Jul 2019
 *onionshare*<br>Lets you securely and anonymously share a file of any size with someone | 2.0 | 14 Mar 2019
 *pacman-cleanup-hook*<br>Pacman hook to cleanup pacman cache, keeps only the latest cache and the currently installed package. No configuration necessary, just install it. | 1.0 | 19 Mar 2019
+*popcorntime*<br>Stream movies and TV shows from torrents (stable builds) | 0.3.10 | 16 Mar 2019
 *python-click-completion*<br>Fish, Bash, Zsh, and PowerShell completion for Click. | 0.4.1 | 11 Jul 2019
 *python-click-didyoumean*<br>Enable git-like did-you-mean feature in Click. | 0.0.3 | 11 Jul 2019
 *screen-recorder*<br>Record screen easily with ffmpeg | 1.0.0 | 30 Mar 2019
 *screenkey*<br>Screencast tool to show your keys inspired by Screenflick, based on key-mon. Active fork with new features. | 0.9 | 14 Mar 2019
 *signal*<br>Private messenger for the desktop | 1.25.3 | 05 Jul 2019
+*spotify*<br>A proprietary music streaming service | 1.1.10.546 | 21 Jul 2019
 *st*<br>A simple virtual terminal emulator for X. | 0.8.2 | 11 Apr 2019
 *sublime-text-dev*<br>Sophisticated text editor for code, html and prose - dev build | 3.3207 | 28 Jun 2019
 *tor-browser*<br>Tor Browser Bundle: anonymous browsing using Firefox and Tor (international PKGBUILD) | 8.5.4 | 11 Jul 2019
