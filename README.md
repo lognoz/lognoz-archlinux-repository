@@ -23,7 +23,7 @@ Package	|  Version	|  Modification
 *libc++*<br>LLVM C++ standard library. | 8.0.0 | 21 Jul 2019
 *libc++abi*<br>Low level support for the LLVM C++ standard library. | 8.0.0 | 21 Jul 2019
 *libc++experimental*<br>LLVM C++ experimental library. | 8.0.0 | 21 Jul 2019
-*minecraft-launcher*<br>Official Minecraft Launcher | 2.1.5410 | 27 Jun 2019
+*minecraft-launcher*<br>Official Minecraft Launcher | 2.1.5965 | 23 Jul 2019
 *ncurses5-compat-libs*<br>System V Release 4.0 curses emulation library, ABI 5 | 6.1 | 14 Mar 2019
 *nordvpn*<br>NordVPN CLI tool for Linux | 3.2.0_4 | 21 Jul 2019
 *onionshare*<br>Lets you securely and anonymously share a file of any size with someone | 2.0 | 14 Mar 2019
