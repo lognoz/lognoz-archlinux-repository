@@ -33,11 +33,12 @@ Package	|  Version	|  Modification
 *python-click-didyoumean*<br>Enable git-like did-you-mean feature in Click. | 0.0.3 | 11 Jul 2019
 *screen-recorder*<br>Record screen easily with ffmpeg | 1.0.0 | 30 Mar 2019
 *screenkey*<br>Screencast tool to show your keys inspired by Screenflick, based on key-mon. Active fork with new features. | 0.9 | 14 Mar 2019
-*signal*<br>Private messenger for the desktop | 1.26.0 | 13 Aug 2019
+*signal*<br>Private messenger for the desktop | 1.26.1 | 15 Aug 2019
 *spotify*<br>A proprietary music streaming service | 1.1.10.546 | 11 Aug 2019
 *st*<br>A simple virtual terminal emulator for X. | 0.8.2 | 11 Apr 2019
 *sublime-text-dev*<br>Sophisticated text editor for code, html and prose - dev build | 3.3207 | 28 Jun 2019
 *tor-browser*<br>Tor Browser Bundle: anonymous browsing using Firefox and Tor (international PKGBUILD) | 8.5.4 | 26 Jul 2019
+*vim-youcompleteme*<br>A code-completion engine for Vim | r2538.afa2ea03 | 28 Jul 2019
 *xflux*<br>(f.lux for X) Changes monitor color temperature adaptively to ease eye strain (command-line version) | 20130901 | 14 Mar 2019
 *youtube-dl-mp3*<br>Convert YouTube videos in HQ audio with mp3 format. | 2018.01.03 | 14 Mar 2019
 *zeronet*<br>Decentralized websites using Bitcoin crypto and the BitTorrent network. | 0.6.5 | 19 Mar 2019
