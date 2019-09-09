@@ -29,7 +29,7 @@ Package	|  Version	|  Modification
 *onionshare*<br>Lets you securely and anonymously share a file of any size with someone | 2.0 | 14 Mar 2019
 *pacman-cleanup-hook*<br>Pacman hook to cleanup pacman cache, keeps only the latest cache and the currently installed package. No configuration necessary, just install it. | 1.0 | 19 Mar 2019
 *popcorntime*<br>Stream movies and TV shows from torrents (stable builds) | 0.3.10 | 16 Mar 2019
-*python-click-completion*<br>Fish, Bash, Zsh, and PowerShell completion for Click. | 0.4.1 | 11 Jul 2019
+*python-click-completion*<br>Fish, Bash, Zsh, and PowerShell completion for Click. | 0.5.1 | 09 Sep 2019
 *python-click-didyoumean*<br>Enable git-like did-you-mean feature in Click. | 0.0.3 | 11 Jul 2019
 *screen-recorder*<br>Record screen easily with ffmpeg | 1.0.0 | 30 Mar 2019
 *screenkey*<br>Screencast tool to show your keys inspired by Screenflick, based on key-mon. Active fork with new features. | 0.9 | 14 Mar 2019
