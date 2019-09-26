@@ -34,7 +34,7 @@ Package	|  Version	|  Modification
 *python-click-didyoumean*<br>Enable git-like did-you-mean feature in Click. | 0.0.3 | 11 Jul 2019
 *screen-recorder*<br>Record screen easily with ffmpeg | 1.0.0 | 30 Mar 2019
 *screenkey*<br>Screencast tool to show your keys inspired by Screenflick, based on key-mon. Active fork with new features. | 0.9 | 14 Mar 2019
-*signal*<br>Private messenger for the desktop | 1.27.2 | 08 Sep 2019
+*signal*<br>Private messenger for the desktop | 1.27.3 | 26 Sep 2019
 *spotify*<br>A proprietary music streaming service | 1.1.10.546 | 30 Aug 2019
 *st*<br>A simple virtual terminal emulator for X. | 0.8.2 | 11 Apr 2019
 *sublime-text-dev*<br>Sophisticated text editor for code, html and prose - dev build | 3.3207 | 28 Jun 2019
