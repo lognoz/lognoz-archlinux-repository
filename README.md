@@ -13,9 +13,9 @@ Server = https://mirror.lognoz.org
 
 Package	|  Version	|  Modification
 :--- | :--- | :---
+*brave-bin*<br>Web browser that blocks ads and trackers by default (binary release). | 0.68.142 | 30 Sep 2019
 *discord*<br>All-in-one voice and text chat for gamers that's free and secure. | 0.0.9 | 26 Apr 2019
 *doitlive*<br>Because sometimes you need to do it live | 4.3.0 | 11 Jul 2019
-*dwm*<br>A dynamic window manager for X | 6.2 | 21 Jul 2019
 *freenet*<br>An encrypted network without censorship | 0.7.5.1484 | 19 Apr 2019
 *freetube-bin*<br>An open source desktop YouTube player built with privacy in mind. | 0.7.0 | 23 Sep 2019
 *gotop*<br>A terminal based graphical activity monitor inspired by gtop and vtop | 3.0.0 | 16 Mar 2019
