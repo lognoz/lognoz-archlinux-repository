@@ -25,6 +25,7 @@ Package	|  Version	|  Modification
 *libc++*<br>LLVM C++ standard library. | 8.0.1 | 24 Jul 2019
 *libc++abi*<br>Low level support for the LLVM C++ standard library. | 8.0.1 | 24 Jul 2019
 *libc++experimental*<br>LLVM C++ experimental library. | 8.0.1 | 24 Jul 2019
+*libfixposix*<br>Thin wrapper over POSIX syscalls | 0.4.3 | 03 Oct 2019
 *minecraft-launcher*<br>Official Minecraft Launcher | 2.1.5965 | 19 Sep 2019
 *ncurses5-compat-libs*<br>System V Release 4.0 curses emulation library, ABI 5 | 6.1 | 14 Mar 2019
 *nordvpn*<br>NordVPN CLI tool for Linux | 3.3.1_3 | 11 Sep 2019
