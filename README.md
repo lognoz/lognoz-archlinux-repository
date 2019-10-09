@@ -16,6 +16,7 @@ Package	|  Version	|  Modification
 *brave-bin*<br>Web browser that blocks ads and trackers by default (binary release). | 0.69.132 | 05 Oct 2019
 *discord*<br>All-in-one voice and text chat for gamers that's free and secure. | 0.0.9 | 26 Apr 2019
 *doitlive*<br>Because sometimes you need to do it live | 4.3.0 | 11 Jul 2019
+*dwm*<br>A dynamic window manager for X | 6.2 | 21 Jul 2019
 *freenet*<br>An encrypted network without censorship | 0.7.5.1484 | 19 Apr 2019
 *freetube-bin*<br>An open source desktop YouTube player built with privacy in mind. | 0.7.0 | 23 Sep 2019
 *gotop*<br>A terminal based graphical activity monitor inspired by gtop and vtop | 3.0.0 | 16 Mar 2019
@@ -25,7 +26,7 @@ Package	|  Version	|  Modification
 *libc++abi*<br>Low level support for the LLVM C++ standard library. | 8.0.1 | 24 Jul 2019
 *libc++experimental*<br>LLVM C++ experimental library. | 8.0.1 | 24 Jul 2019
 *libfixposix*<br>Thin wrapper over POSIX syscalls | 0.4.3 | 03 Oct 2019
-*minecraft-launcher*<br>Official Minecraft Launcher | 2.1.5965 | 19 Sep 2019
+*minecraft-launcher*<br>Official Minecraft Launcher | 2.1.7658 | 09 Oct 2019
 *ncurses5-compat-libs*<br>System V Release 4.0 curses emulation library, ABI 5 | 6.1 | 14 Mar 2019
 *next-browser-git*<br>Keyboard-oriented, Common Lisp extensible web-browser | 1.3.1.63.g84156bd | 03 Oct 2019
 *nordvpn*<br>NordVPN CLI tool for Linux | 3.3.1_3 | 11 Sep 2019
