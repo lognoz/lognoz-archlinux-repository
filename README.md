@@ -28,7 +28,6 @@ Package	|  Version	|  Modification
 *libfixposix*<br>Thin wrapper over POSIX syscalls | 0.4.3 | 03 Oct 2019
 *minecraft-launcher*<br>Official Minecraft Launcher | 2.1.7658 | 09 Oct 2019
 *ncurses5-compat-libs*<br>System V Release 4.0 curses emulation library, ABI 5 | 6.1 | 14 Mar 2019
-*next-browser-git*<br>Keyboard-oriented, Common Lisp extensible web-browser | 1.3.1.63.g84156bd | 03 Oct 2019
 *nordvpn*<br>NordVPN CLI tool for Linux | 3.3.1_3 | 11 Sep 2019
 *onionshare*<br>Lets you securely and anonymously share a file of any size with someone | 2.0 | 14 Mar 2019
 *pacman-cleanup-hook*<br>Pacman hook to cleanup pacman cache, keeps only the latest cache and the currently installed package. No configuration necessary, just install it. | 1.0 | 19 Mar 2019
@@ -44,6 +43,7 @@ Package	|  Version	|  Modification
 *sublime-text-dev*<br>Sophisticated text editor for code, html and prose - dev build | 3.3211 | 01 Oct 2019
 *tor-browser*<br>Tor Browser Bundle: anonymous browsing using Firefox and Tor (international PKGBUILD) | 8.5.5 | 08 Sep 2019
 *xflux*<br>(f.lux for X) Changes monitor color temperature adaptively to ease eye strain (command-line version) | 20130901 | 14 Mar 2019
+*ycmd-git*<br>A code-completion & code-comprehension server | r2451.af102da1 | 10 Oct 2019
 *youtube-dl-mp3*<br>Convert YouTube videos in HQ audio with mp3 format. | 2018.01.03 | 14 Mar 2019
 *zeronet*<br>Decentralized websites using Bitcoin crypto and the BitTorrent network. | 0.6.5 | 19 Mar 2019
 
