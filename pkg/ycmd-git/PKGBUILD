@@ -2,7 +2,7 @@
 
 pkgname=ycmd-git
 _gitname=ycmd
-pkgver=r2451.af102da1
+pkgver=r2453.3a02582e
 pkgrel=1
 pkgdesc="A code-completion & code-comprehension server"
 arch=('i686' 'x86_64')
