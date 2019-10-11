@@ -22,9 +22,9 @@ Package	|  Version	|  Modification
 *gotop*<br>A terminal based graphical activity monitor inspired by gtop and vtop | 3.0.0 | 16 Mar 2019
 *java-service-wrapper*<br>Enables a Java Application to be run as a Windows Service or Unix Daemon | 3.5.40 | 08 Sep 2019
 *koala-bin*<br>Koala is a GUI application for LESS, Sass and CoffeeScript compilation, to help web developers use these tools more efficiently for development. | 2.3.0 | 30 Sep 2019
-*libc++*<br>LLVM C++ standard library. | 8.0.1 | 24 Jul 2019
-*libc++abi*<br>Low level support for the LLVM C++ standard library. | 8.0.1 | 24 Jul 2019
-*libc++experimental*<br>LLVM C++ experimental library. | 8.0.1 | 24 Jul 2019
+*libc++*<br>LLVM C++ standard library. | 9.0.0 | 11 Oct 2019
+*libc++abi*<br>Low level support for the LLVM C++ standard library. | 9.0.0 | 11 Oct 2019
+*libc++experimental*<br>LLVM C++ experimental library. | 9.0.0 | 11 Oct 2019
 *libfixposix*<br>Thin wrapper over POSIX syscalls | 0.4.3 | 03 Oct 2019
 *minecraft-launcher*<br>Official Minecraft Launcher | 2.1.7658 | 09 Oct 2019
 *ncurses5-compat-libs*<br>System V Release 4.0 curses emulation library, ABI 5 | 6.1 | 14 Mar 2019
