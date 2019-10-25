@@ -40,9 +40,8 @@ Package	|  Version	|  Modification
 *spotify*<br>A proprietary music streaming service | 1.1.10.546 | 30 Aug 2019
 *st*<br>A simple virtual terminal emulator for X. | 0.8.2 | 11 Apr 2019
 *sublime-text-dev*<br>Sophisticated text editor for code, html and prose - dev build | 3.3211 | 01 Oct 2019
-*tor-browser*<br>Tor Browser Bundle: anonymous browsing using Firefox and Tor (international PKGBUILD) | 8.5.5 | 08 Sep 2019
+*tor-browser*<br>Tor Browser Bundle: anonymous browsing using Firefox and Tor (international PKGBUILD) | 9.0 | 25 Oct 2019
 *xflux*<br>(f.lux for X) Changes monitor color temperature adaptively to ease eye strain (command-line version) | 20130901 | 14 Mar 2019
-*ycmd-git*<br>A code-completion & code-comprehension server | r2461.73ec48b6 | 14 Oct 2019
 *youtube-dl-mp3*<br>Convert YouTube videos in HQ audio with mp3 format. | 2018.01.03 | 14 Mar 2019
 *zeronet*<br>Decentralized websites using Bitcoin crypto and the BitTorrent network. | 0.6.5 | 19 Mar 2019
 
