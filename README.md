@@ -13,7 +13,6 @@ Server = https://mirror.lognoz.org
 
 Package	|  Version	|  Modification
 :--- | :--- | :---
-*brave-bin*<br>Web browser that blocks ads and trackers by default (binary release). | 0.69.135 | 17 Oct 2019
 *discord*<br>All-in-one voice and text chat for gamers that's free and secure. | 0.0.9 | 26 Apr 2019
 *doitlive*<br>Because sometimes you need to do it live | 4.3.0 | 11 Jul 2019
 *dwm*<br>A dynamic window manager for X | 6.2 | 21 Jul 2019
@@ -37,7 +36,7 @@ Package	|  Version	|  Modification
 *python-click-didyoumean*<br>Enable git-like did-you-mean feature in Click. | 0.0.3 | 11 Jul 2019
 *screen-recorder*<br>Record screen easily with ffmpeg | 1.0.0 | 30 Mar 2019
 *screenkey*<br>Screencast tool to show your keys inspired by Screenflick, based on key-mon. Active fork with new features. | 0.9 | 14 Mar 2019
-*signal*<br>Private messenger for the desktop | 1.27.4 | 11 Oct 2019
+*signal*<br>Private messenger for the desktop | 1.27.4 | 25 Oct 2019
 *spotify*<br>A proprietary music streaming service | 1.1.10.546 | 30 Aug 2019
 *st*<br>A simple virtual terminal emulator for X. | 0.8.2 | 11 Apr 2019
 *sublime-text-dev*<br>Sophisticated text editor for code, html and prose - dev build | 3.3211 | 01 Oct 2019
