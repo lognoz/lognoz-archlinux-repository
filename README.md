@@ -43,4 +43,5 @@ Package	|  Version	|  Modification
 *tor-browser*<br>Tor Browser Bundle: anonymous browsing using Firefox and Tor (international PKGBUILD) | 9.0.1 | 17 Nov 2019
 *xflux*<br>(f.lux for X) Changes monitor color temperature adaptively to ease eye strain (command-line version) | 20130901 | 14 Mar 2019
 *youtube-dl-mp3*<br>Convert YouTube videos in HQ audio with mp3 format. | 2018.01.03 | 14 Mar 2019
+*zeronet*<br>Decentralized websites using Bitcoin crypto and the BitTorrent network. | 0.7.1 | 17 Nov 2019
 
