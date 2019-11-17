@@ -40,6 +40,7 @@ Package	|  Version	|  Modification
 *spotify*<br>A proprietary music streaming service | 1.1.10.546 | 30 Aug 2019
 *st*<br>A simple virtual terminal emulator for X. | 0.8.2 | 17 Nov 2019
 *sublime-text-dev*<br>Sophisticated text editor for code, html and prose - dev build | 3.3211 | 01 Oct 2019
+*tor-browser*<br>Tor Browser Bundle: anonymous browsing using Firefox and Tor (international PKGBUILD) | 9.0.1 | 17 Nov 2019
 *xflux*<br>(f.lux for X) Changes monitor color temperature adaptively to ease eye strain (command-line version) | 20130901 | 14 Mar 2019
 *youtube-dl-mp3*<br>Convert YouTube videos in HQ audio with mp3 format. | 2018.01.03 | 14 Mar 2019
 
