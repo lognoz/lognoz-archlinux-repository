@@ -19,6 +19,7 @@ Package	|  Version	|  Modification
 *freenet*<br>An encrypted network without censorship | 0.7.5.1484 | 19 Apr 2019
 *freetube-bin*<br>An open source desktop YouTube player built with privacy in mind. | 0.7.1 | 15 Oct 2019
 *gotop*<br>A terminal based graphical activity monitor inspired by gtop and vtop | 3.0.0 | 16 Mar 2019
+*java-service-wrapper*<br>Enables a Java Application to be run as a Windows Service or Unix Daemon | 3.5.41 | 17 Nov 2019
 *koala-bin*<br>Koala is a GUI application for LESS, Sass and CoffeeScript compilation, to help web developers use these tools more efficiently for development. | 2.3.0 | 30 Sep 2019
 *libc++*<br>LLVM C++ standard library. | 9.0.0 | 11 Oct 2019
 *libc++abi*<br>Low level support for the LLVM C++ standard library. | 9.0.0 | 11 Oct 2019
