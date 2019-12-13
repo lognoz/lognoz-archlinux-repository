@@ -6,10 +6,5 @@ import os
 name = "dwm"
 source = "https://aur.archlinux.org/dwm-git.git"
 keep_files = [
-    "config.h",
-    "dwm.patch"
+    "config.h"
 ]
-
-
-def pre_build():
-    os.system("patch < dwm.patch")
