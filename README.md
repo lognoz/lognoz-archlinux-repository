@@ -18,7 +18,7 @@ Package	|  Version	|  Modification
 *doitlive*<br>Because sometimes you need to do it live | 4.3.0-1 | 11 Jul 2019
 *dwm*<br>A dynamic window manager for X | 6.2.r0.gcb3f58a-1 | 13 Dec 2019
 *freenet*<br>An encrypted network without censorship | 0.7.5.1484-1 | 17 Nov 2019
-*freetube-bin*<br>An open source desktop YouTube player built with privacy in mind. | 0.7.1-1 | 15 Oct 2019
+*freetube-bin*<br>An open source desktop YouTube player built with privacy in mind. | 0.7.2-1 | 22 Dec 2019
 *gotop*<br>A terminal based graphical activity monitor inspired by gtop and vtop | 3.0.0-2 | 18 Jun 2019
 *java-service-wrapper*<br>Enables a Java Application to be run as a Windows Service or Unix Daemon | 3.5.41-1 | 17 Nov 2019
 *libc++*<br>LLVM C++ standard library. | 9.0.0-1 | 11 Oct 2019
