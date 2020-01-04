@@ -21,9 +21,9 @@ Package	|  Version	|  Modification
 *freetube-bin*<br>An open source desktop YouTube player built with privacy in mind. | 0.7.2-1 | 22 Dec 2019
 *gotop*<br>A terminal based graphical activity monitor inspired by gtop and vtop | 3.0.0-2 | 18 Jun 2019
 *java-service-wrapper*<br>Enables a Java Application to be run as a Windows Service or Unix Daemon | 3.5.41-1 | 17 Nov 2019
-*libc++*<br>LLVM C++ standard library. | 9.0.0-1 | 11 Oct 2019
-*libc++abi*<br>Low level support for the LLVM C++ standard library. | 9.0.0-1 | 11 Oct 2019
-*libc++experimental*<br>LLVM C++ experimental library. | 9.0.0-1 | 11 Oct 2019
+*libc++*<br>LLVM C++ standard library. | 9.0.1-1 | 04 Jan 2020
+*libc++abi*<br>Low level support for the LLVM C++ standard library. | 9.0.1-1 | 04 Jan 2020
+*libc++experimental*<br>LLVM C++ experimental library. | 9.0.1-1 | 04 Jan 2020
 *libfixposix*<br>Thin wrapper over POSIX syscalls | 0.4.3-1 | 03 Oct 2019
 *minecraft-launcher*<br>Official Minecraft Launcher | 2.1.9618-2 | 17 Nov 2019
 *ncurses5-compat-libs*<br>System V Release 4.0 curses emulation library, ABI 5 | 6.1-1 | 19 Jun 2019
