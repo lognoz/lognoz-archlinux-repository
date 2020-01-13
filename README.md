@@ -33,7 +33,7 @@ Package	|  Version	|  Modification
 *pacman-cleanup-hook*<br>Pacman hook to cleanup pacman cache, keeps only the latest | 1.0-5 | 19 Jun 2019
 *popcorntime*<br>Stream movies and TV shows from torrents (stable builds) | 0.3.10-7 | 07 Jan 2020
 *prepros-bin*<br>Compile Sass, Less, Jade and much more with live browser | 6.3-1 | 30 Sep 2019
-*python-click-completion*<br>Fish, Bash, Zsh, and PowerShell completion for Click. | 0.5.1-2 | 09 Sep 2019
+*python-click-completion*<br>Fish, Bash, Zsh, and PowerShell completion for Click. | 0.5.2-1 | 13 Jan 2020
 *python-click-didyoumean*<br>Enable git-like did-you-mean feature in Click. | 0.0.3-2 | 11 Jul 2019
 *screenkey*<br>Screencast tool to show your keys inspired by Screenflick, | 0.9-1 | 19 Jun 2019
 *screen-recorder*<br>Record screen easily with ffmpeg | 1.0.0-1 | 19 Jun 2019
