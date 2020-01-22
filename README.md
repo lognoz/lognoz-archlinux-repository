@@ -23,7 +23,7 @@ Package	|  Version	|  Modification
 *discord*<br>All-in-one voice and text chat for gamers that's free and | 0.0.9-3 | 18 Jun 2019
 *doitlive*<br>Because sometimes you need to do it live | 4.3.0-1 | 11 Jul 2019
 *dwm*<br>A dynamic window manager for X | 6.2.r0.gcb3f58a-1 | 08 Jan 2020
-*emacs-git*<br>GNU Emacs. Development master branch. | 28.0.50.140162-1 | 21 Jan 2020
+*emacs-git*<br>GNU Emacs. Development master branch. | 28.0.50.140163-1 | 21 Jan 2020
 *freenet*<br>An encrypted network without censorship | 0.7.5.1484-1 | 17 Nov 2019
 *freetube-bin*<br>An open source desktop YouTube player built with privacy in | 0.7.2-1 | 22 Dec 2019
 *gconf*<br>An obsolete configuration database system | 3.2.6+11+g07808097-6 | 07 Jan 2020
