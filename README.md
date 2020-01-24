@@ -33,7 +33,7 @@ Package	|  Version	|  Modification
 *libc++abi*<br>Low level support for the LLVM C++ standard library. | 9.0.1-1 | 18 Jan 2020
 *libc++experimental*<br>LLVM C++ experimental library. | 9.0.1-1 | 18 Jan 2020
 *libfixposix*<br>Thin wrapper over POSIX syscalls | 0.4.3-1 | 03 Oct 2019
-*minecraft-launcher*<br>Official Minecraft Launcher | 2.1.10835-1 | 16 Jan 2020
+*minecraft-launcher*<br>Official Minecraft Launcher | 2.1.11314-1 | 24 Jan 2020
 *ncurses5-compat-libs*<br>System V Release 4.0 curses emulation library, ABI 5 | 6.1-1 | 19 Jun 2019
 *nordvpn*<br>NordVPN CLI tool for Linux | 3.6.0_3-1 | 17 Jan 2020
 *onionshare*<br>Lets you securely and anonymously share a file of any size | 2.2-2 | 17 Nov 2019
