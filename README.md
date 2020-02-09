@@ -35,7 +35,7 @@ Package	|  Version	|  Modification
 *libfixposix*<br>Thin wrapper over POSIX syscalls | 0.4.3-1 | 03 Oct 2019
 *minecraft-launcher*<br>Official Minecraft Launcher | 2.1.11314-1 | 24 Jan 2020
 *ncurses5-compat-libs*<br>System V Release 4.0 curses emulation library, ABI 5 | 6.1-1 | 19 Jun 2019
-*nordvpn*<br>NordVPN CLI tool for Linux | 3.6.0_4-1 | 28 Jan 2020
+*nordvpn*<br>NordVPN CLI tool for Linux | 3.6.0_5-1 | 09 Feb 2020
 *onionshare*<br>Lets you securely and anonymously share a file of any size | 2.2-2 | 17 Nov 2019
 *pacman-cleanup-hook*<br>Pacman hook to cleanup pacman cache, keeps only the latest | 1.0-5 | 19 Jun 2019
 *popcorntime*<br>Stream movies and TV shows from torrents (stable builds) | 0.3.10-7 | 07 Jan 2020
