@@ -40,9 +40,10 @@ Package	|  Version	|  Modification
 *pacman-cleanup-hook*<br>Pacman hook to cleanup pacman cache, keeps only the latest | 1.0-5 | 19 Jun 2019
 *popcorntime*<br>Stream movies and TV shows from torrents (stable builds) | 0.3.10-7 | 07 Jan 2020
 *prepros-bin*<br>Compile Sass, Less, Jade and much more with live browser | 6.3-1 | 30 Sep 2019
+*python2-distutils-extra*<br>Enhancements to the Python build system | 2.39-5 | 12 Feb 2020
 *python-click-completion*<br>Add or enhance bash, fish, zsh and powershell completion in | 0.5.2-2 | 15 Jan 2020
 *python-click-didyoumean*<br>Enable git-like did-you-mean feature in Click. | 0.0.3-2 | 11 Jul 2019
-*screenkey*<br>Screencast tool to show your keys inspired by Screenflick, | 0.9-1 | 19 Jun 2019
+*screenkey*<br>A screencast tool to display your keys inspired by Screenflick | 0.9-2 | 12 Feb 2020
 *screen-recorder*<br>Record screen easily with ffmpeg | 1.0.0-1 | 19 Jun 2019
 *signal*<br>Private messenger for the desktop | 1.27.4-2 | 25 Oct 2019
 *spotify*<br>A proprietary music streaming service | 1:1.1.10.546-3 | 02 Feb 2020
