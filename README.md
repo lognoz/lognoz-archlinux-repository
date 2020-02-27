@@ -19,7 +19,7 @@ Server = https://mirror.lognoz.org
 ## Repository
 Package	|  Version	|  Modification
 :--- | :--- | :---
-*brave-bin*<br>Web browser that blocks ads and trackers by default (binary | 1:1.3.118-1 | 20 Feb 2020
+*brave-bin*<br>Web browser that blocks ads and trackers by default (binary | 1:1.4.95-1 | 27 Feb 2020
 *discord*<br>All-in-one voice and text chat for gamers that's free and | 0.0.9-3 | 18 Jun 2019
 *doitlive*<br>Because sometimes you need to do it live | 4.3.0-1 | 11 Jul 2019
 *dwm*<br>A dynamic window manager for X | 6.2.r0.gcb3f58a-1 | 08 Jan 2020
