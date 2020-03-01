@@ -37,7 +37,7 @@ Package	|  Version	|  Modification
 *ncurses5-compat-libs*<br>System V Release 4.0 curses emulation library, ABI 5 | 6.1-1 | 19 Jun 2019
 *nordvpn*<br>NordVPN CLI tool for Linux | 3.6.1_1-1 | 11 Feb 2020
 *onionshare*<br>Lets you securely and anonymously share a file of any size | 2.2-2 | 17 Nov 2019
-*pacman-cleanup-hook*<br>Pacman hook to cleanup pacman cache, keeps only the latest | 1.0-5 | 19 Jun 2019
+*pacman-cleanup-hook*<br>Pacman hook to cleanup pacman cache, keeps only the latest | 1.0-7 | 29 Feb 2020
 *popcorntime*<br>Stream movies and TV shows from torrents (stable builds) | 0.3.10-7 | 07 Jan 2020
 *prepros-bin*<br>Compile Sass, Less, Jade and much more with live browser | 6.3-1 | 30 Sep 2019
 *python2-distutils-extra*<br>Enhancements to the Python build system | 2.39-5 | 12 Feb 2020
