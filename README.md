@@ -27,7 +27,7 @@ Package	|  Version	|  Modification
 *freenet*<br>A peer-to-peer platform for censorship-resistant communication | 0.7.5.1485-2 | 18 Feb 2020
 *freetube-bin*<br>An open source desktop YouTube player built with privacy in | 0.7.2-1 | 22 Dec 2019
 *gconf*<br>An obsolete configuration database system | 3.2.6+11+g07808097-6 | 07 Jan 2020
-*gotop*<br>A terminal based graphical activity monitor inspired by gtop | 3.3.2-1 | 28 Feb 2020
+*gotop*<br>A terminal based graphical activity monitor inspired by gtop | 3.5.0-1 | 07 Mar 2020
 *java-service-wrapper*<br>Enables a Java Application to be run as a Windows Service or | 3.5.42-1 | 07 Feb 2020
 *libc++*<br>LLVM C++ standard library. | 9.0.1-1 | 18 Jan 2020
 *libc++abi*<br>Low level support for the LLVM C++ standard library. | 9.0.1-1 | 18 Jan 2020
