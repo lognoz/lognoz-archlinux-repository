@@ -31,4 +31,5 @@ Package	|  Version	|  Modification
 *libc++abi*<br>Low level support for the LLVM C++ standard library. | 9.0.1-1 | 11 Mar 2020
 *libc++experimental*<br>LLVM C++ experimental library. | 9.0.1-1 | 11 Mar 2020
 *libfixposix*<br>Thin wrapper over POSIX syscalls | 0.4.3-1 | 11 Mar 2020
+*minecraft-launcher*<br>Official Minecraft Launcher | 2.1.11314-1 | 11 Mar 2020
 
