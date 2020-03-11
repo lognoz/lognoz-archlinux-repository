@@ -19,6 +19,7 @@ Server = https://mirror.lognoz.org
 ## Repository
 Package	|  Version	|  Modification
 :--- | :--- | :---
+*brave-bin*<br>Web browser that blocks ads and trackers by default (binary | 1:1.4.96-1 | 11 Mar 2020
 *discord*<br>All-in-one voice and text chat for gamers that's free and | 0.0.9-3 | 11 Mar 2020
 *gconf*<br>An obsolete configuration database system | 3.2.6+11+g07808097-6 | 11 Mar 2020
 
