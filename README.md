@@ -27,4 +27,7 @@ Package	|  Version	|  Modification
 *gconf*<br>An obsolete configuration database system | 3.2.6+11+g07808097-6 | 11 Mar 2020
 *gotop*<br>A terminal based graphical activity monitor inspired by gtop | 3.5.0-1 | 11 Mar 2020
 *java-service-wrapper*<br>Enables a Java Application to be run as a Windows Service or | 3.5.43-1 | 11 Mar 2020
+*libc++*<br>LLVM C++ standard library. | 9.0.1-1 | 11 Mar 2020
+*libc++abi*<br>Low level support for the LLVM C++ standard library. | 9.0.1-1 | 11 Mar 2020
+*libc++experimental*<br>LLVM C++ experimental library. | 9.0.1-1 | 11 Mar 2020
 
