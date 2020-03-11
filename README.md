@@ -25,5 +25,6 @@ Package	|  Version	|  Modification
 *freenet*<br>A peer-to-peer platform for censorship-resistant communication | 0.7.5.1485-2 | 11 Mar 2020
 *freetube-bin*<br>An open source desktop YouTube player built with privacy in | 0.7.2-1 | 11 Mar 2020
 *gconf*<br>An obsolete configuration database system | 3.2.6+11+g07808097-6 | 11 Mar 2020
+*gotop*<br>A terminal based graphical activity monitor inspired by gtop | 3.5.0-1 | 11 Mar 2020
 *java-service-wrapper*<br>Enables a Java Application to be run as a Windows Service or | 3.5.43-1 | 11 Mar 2020
 
