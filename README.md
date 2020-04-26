@@ -35,4 +35,5 @@ Package	|  Version	|  Modification
 *onionshare*<br>Lets you securely and anonymously share a file of any size | 2.2-2 | 12 Mar 2020
 *popcorntime*<br>Stream movies and TV shows from torrents (stable builds) | 0.3.10-7 | 12 Mar 2020
 *python-click-completion*<br>Add or enhance bash, fish, zsh and powershell completion in | 0.5.2-2 | 26 Apr 2020
+*python-click-didyoumean*<br>Enable git-like did-you-mean feature in Click. | 0.0.3-2 | 26 Apr 2020
 
