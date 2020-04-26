@@ -35,4 +35,5 @@ Package	|  Version	|  Modification
 *ncurses5-compat-libs*<br>System V Release 4.0 curses emulation library, ABI 5 | 6.1-1 | 11 Mar 2020
 *nordvpn*<br>NordVPN CLI tool for Linux | 3.6.1_1-1 | 11 Mar 2020
 *onionshare*<br>Lets you securely and anonymously share a file of any size | 2.2-2 | 12 Mar 2020
+*popcorntime*<br>Stream movies and TV shows from torrents (stable builds) | 0.3.10-7 | 12 Mar 2020
 
