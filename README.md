@@ -37,4 +37,5 @@ Package	|  Version	|  Modification
 *python2-distutils-extra*<br>Enhancements to the Python build system | 2.39-5 | 26 Apr 2020
 *python-click-completion*<br>Add or enhance bash, fish, zsh and powershell completion in | 0.5.2-2 | 26 Apr 2020
 *python-click-didyoumean*<br>Enable git-like did-you-mean feature in Click. | 0.0.3-2 | 26 Apr 2020
+*xflux*<br>(f.lux for X) Changes monitor color temperature adaptively to | 20130901-5 | 04 May 2020
 
